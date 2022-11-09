@@ -1,3 +1,6 @@
 [submodule "git_submodule"]
 	path = git_submodule
 	url = git@github.com:iivke/git_submodule.git
+[submodule "lib/components/git_submodule2"]
+	path = lib/components/git_submodule2
+	url = git@github.com:iivke/git_submodule2.git
